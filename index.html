@@ -13,6 +13,7 @@
       $(document).ready(function(){
         $(".inner").fadeIn(5000);
         $(".mastfoot").fadeIn(5000);
+        $('.fa-envelope').tooltip()
       });
       
       
@@ -41,7 +42,7 @@
             <h1 class="cover-heading">Hi, I'm Tadeo.</h1>
             <p class="lead">A 12 year old developer.</p>
             <p class="lead">
-              <p><a href="http://twitter.com/TadeoKondrak"><i class="fa fa-twitter"></i></a>&nbsp;<i onclick="alert('My email is:\n\ntadeo@kondrak.tk')" class="fa fa-envelope"></i></a>&nbsp;<a href="http://github.com/tadeokondrak"><i class="fa fa-github"></i></a></p>
+              <p><a href="http://twitter.com/TadeoKondrak"><i class="fa fa-twitter"></i></a>&nbsp;<i data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom" class="fa fa-envelope"></i></a>&nbsp;<a href="http://github.com/tadeokondrak"><i class="fa fa-github"></i></a></p>
             </p>
           </div>
 
