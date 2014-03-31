@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/tk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tadeokondrak.com
+  * I am tk (https://keybase.io/tk) on keybase.
+  * I have a public key with fingerprint D185 CBCF BB47 C997 0571  A3BD 9507 B0F6 FEC3 664E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d185cbcfbb47c9970571a3bd9507b0f6fec3664e",
+            "host": "keybase.io",
+            "key_id": "9507b0f6fec3664e",
+            "uid": "d328d6ca70379c67a950abd08bb3f100",
+            "username": "tk"
+        },
+        "service": {
+            "hostname": "tadeokondrak.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396288567,
+    "expire_in": 157680000,
+    "prev": "10c2cfcaa729cada8bb7486576c26d06dbd2e8f0b299baad1ea1072ff657278b",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHrAnicbZFtSFRZGMdnyteXZIKoD2vRXmJDNLsvM/fcO4IEsbGQ+8EiMhPHc849
+d+Yyee94544v6WzBrlizIy4IylIf3L44tJtukSxmLeZOChmJC5kxBmkh1WYukohf
+1HMlv3W+HJ7n+f3/fx6e5K6djhznDMo72zf+Mc05MbIUcZyW/wAtDDKUZsbbwgTJ
+1qdqup+YIVPTLcbLKJzkwQirCLkBlmXAegAHBaTIHhYgVhVVggVRdBOmmAkYYVtB
+bRAMkxLNoD1a+DSFdr/AR7YGisBLioghYAUgYxFASkKksBJCgsqxrA2GianDOkJp
+K8hEixlaN2iY1i1bodszqBAjaOiKCYMl2KijypBpWAY2LtBpwLJCXltsNYdsupEg
+32cfH9J0hW5NBQ3EDGuGzng5SmJLs405QRZ5SfKIoJghTSHNJD7NJjxAlFj67BjS
+QC05FvNYxRACXsZQgXQF4JZEymFeVFhRQQpPJJVFvCwjCBWOQI4FvKpShAcSovlh
+Uq8bjJcmWdBPLcOaX4dWxCRMdHSkOs3hzHFkpO+w7+bIyXZtX9Mdy3IMdBuF0c7E
+wPKpsqKL3f8l/odVa4UnKk9yi1MFXZe/mY7HDt7dm15z/cZGiDtf/fRI7rG0uT21
+Q57hRP7CWHV6m+/dk9I6ELv/Y+Tf9Yq/M5ayhqZaJ0FJx+D+2TuJzPpJxlLLDsWX
+7vmiR5OPFm7eLvrgXf/qkmuFHIep7MfOxrzVf/rOoD9zmYftLxPfBit6212Dh1NX
+8Lm8mh/8v8ZLb7W93T3/ZuNZKJHxPv+vZW/t15/k5/mdPyV/39ffU9VR0FS7Es48
+oK5NV139uRL9NgGE75KlyS7Qmyr/fuZa69p8YPyXB2Nzi6Ov+9Gr2a7yAOxf7XG9
+4IencmOpZSG+CcFVF4Y=
+=BjF2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tk
+
+==================================================================
